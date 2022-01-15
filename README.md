@@ -7,6 +7,7 @@ Here are some ideas to get you started:-->
 
 <!-- - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning software Engineering at AAIT
+- 🌱 I’m currently Working As a Graphics Designer for Zohar Graphics and web design
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Graphics Design
