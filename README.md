@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development.
+🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>📝 I'm Currently Working as an Android <br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development.
 
 
 ## 🌐 Socials:
