@@ -2,9 +2,6 @@
 🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>📝 I'm Currently Working as an Android Developer in CL Project <br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yosefsahle48) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosef-sahle-44497b255) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yosef_sahle) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8C2u2W01Y83zfL59PF0VdQ) 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
