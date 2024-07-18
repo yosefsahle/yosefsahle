@@ -22,7 +22,7 @@
 <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,anaconda,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,pycharm,vscode" />
   </a>
 </p>
 <br>
