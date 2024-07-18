@@ -43,9 +43,11 @@
                 src="https://img.shields.io/github/followers/yosefsahle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
                 target="_blank"/>
         </a>
+        
       
   </p>
 
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yosefsahle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefsahle&show_icons=true&theme=dark&hide_title=true)<br/>
@@ -53,9 +55,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yosefsahle&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
