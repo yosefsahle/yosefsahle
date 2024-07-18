@@ -52,11 +52,5 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | ![Yosef's Git Status](https://github-readme-stats.vercel.app/api?username=yosefsahle&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefsahle&show_icons=true&theme=dark&hide_title=true) | ![yosefsahle](https://github-readme-streak-stats.herokuapp.com/?user=yosefsahle&theme=dark) |
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=yosefsahle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefsahle&show_icons=true&theme=dark&hide_title=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yosefsahle&theme=dark&hide_border=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yosefsahle&theme=radical&no-frame=true&no-bg=false&margin-w=4)
