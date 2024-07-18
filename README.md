@@ -1,60 +1,53 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=800&height=50&center=true&vCenter=true&duration=4000&lines=Hi+There!+✋;I'm+Yosef+Sahle+🧔;I'm+Full-Stack+Web+and+App+developer+💻+📱" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-mBZTDmW/0LWfMCC6n2Cdqg3hTgRUW1XyHEeDLAMgBc9zIzUtoMyDbVZ4RJe5h6QQuBbgHfhrv8tK/RzwJMgd+RQ==" crossorigin="anonymous" />
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,php,java,html,css,bootstrap,react,angular,flutter,django,firebase,mysql,postgres"/>
-🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>📝 I'm Currently Working as an Android Developer in CL Project <br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development
-
-
-
-<p align="left"> 
-<h3 align="left">Languages :</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Web+and+App+Developer;I'm+AI+Researcher;&center=true&width=500&height=50"></a>
 </p>
-
 
 <p>
-<h3 align="left">Front-end Frameworks :</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<div display="flex">
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
+</div>
+<br>
+
+<p align="center">
+  <a href="">
+    <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
+        <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
+
+
+  </a>
 </p>
-
-
-<p>
-<h3>Back-end Frameworks : </h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<hr>
+<br>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,anaconda,tensorflow,vscode" />
+  </a>
 </p>
+<br>
 
-<p align="left"> 
-<h3 align="left">Databases :</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<hr>
-</p>
+<p align="center">Contact me on:</p>
 
-<h3>Version Control :</h3>
-<p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<hr>
-</p>
-
-
-<h3 align="left">Ui and Graphics:</h3>
-<p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+<p align="center">
+<!--     <a 
+        href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/">
+        <img            src="https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
+            target="_blank"/>
+    </a> -->
+   <a href="https://www.upwork.com/freelancers/~01341db4af73961f34">
+     <img src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
+   </a>
+        <a 
+            href="https://github.com/bethlehem-dagnachew">
+            <img 
+                alt="followers" 
+                title="Follow me on GitHub" 
+                src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+                target="_blank"/>
+        </a>
+      
+  </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yosefsahle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
