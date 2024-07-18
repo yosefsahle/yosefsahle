@@ -1,7 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=800&height=50&center=true&vCenter=true&duration=4000&lines=Hi+There!+✋;I'm+Yosef+Sahle+🧔;I'm+Full-Stack+Web+and+App+developer+💻+📱" />
-<h1 align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,php,java,html,css,bootstrap,react,angular,flutter,django,firebase,mysql,postgres&perline=6"/>
-</h1>
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,php,java,html,css,bootstrap,react,angular,flutter,django,firebase,mysql,postgres&center=true&vCenter=true"/>
 🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>📝 I'm Currently Working as an Android Developer in CL Project <br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development
 
 
