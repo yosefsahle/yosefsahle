@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=800&height=70&center=true&vCenter=true&duration=4000&lines=Hi+There!+✋;I'm+Yosef+Sahle+🧔;I'm+Full-Stack+Web+and+App+developer+💻+📱" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=800&height=70&center=true&vCenter=true&duration=4000&lines=Hi+There!+✋;I'm+Yosef+Sahle+🧔;I'm+Full-Stack+Web+and+App+developer+💻+📱" />
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,php,java,html,css,bootstrap,react,angular,flutter,django,firebase,mysql,postgres&perline=6"/>
 </h1>
