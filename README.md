@@ -14,6 +14,7 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=js,ts,java,py,dart,php,tailwind,bootstrap,html,css," />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,angular,react,flutter,kotlin,django,firebase,mysql,postgres," />
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
 
 
   </a>
