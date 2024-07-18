@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&lines=First+line+of+text;Second+line+of+text;" />
 </h1>
 
 
