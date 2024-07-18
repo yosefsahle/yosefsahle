@@ -45,7 +45,7 @@
   </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yosefsahle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yosefsahle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yosefsahle&theme=dark&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosefsahle&show_icons=true&theme=dark&hide_title=true)
 
