@@ -30,16 +30,11 @@
 <p align="center">Contact me on:</p>
 
 <p align="center">
-<!--     <a 
-        href="https://www.linkedin.com/in/bethelehem-mulugeta-0506a21a3/">
-        <img            src="https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
-            target="_blank"/>
-    </a> -->
    <a href="https://www.upwork.com/freelancers/~01341db4af73961f34">
      <img src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
    </a>
         <a 
-            href="https://github.com/bethlehem-dagnachew">
+            href="https://github.com/yosefsahle">
             <img 
                 alt="followers" 
                 title="Follow me on GitHub" 
