@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-mBZTDmW/0LWfMCC6n2Cdqg3hTgRUW1XyHEeDLAMgBc9zIzUtoMyDbVZ4RJe5h6QQuBbgHfhrv8tK/RzwJMgd+RQ==" crossorigin="anonymous" />
 [![](https://visitcount.itsvg.in/api?id=yosefsahle&icon=0&color=0)](https://visitcount.itsvg.in)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-mBZTDmW/0LWfMCC6n2Cdqg3hTgRUW1XyHEeDLAMgBc9zIzUtoMyDbVZ4RJe5h6QQuBbgHfhrv8tK/RzwJMgd+RQ==" crossorigin="anonymous" />
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There+✋;I'm+Yosef+Sahle;I'm+Software+Engineer;I'm+Full-Stack+Web+and+App+Developer;&center=true&width=500&height=50"></a>
