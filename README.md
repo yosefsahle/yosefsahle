@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=800&height=70&center=true&vCenter=true&duration=4000&lines=Hi+There!+✋;I'm+Yosef+Sahle+🧔;I'm+Full-Stack+Web+and+App+developer+💻+📱" />
 </h1>
 <h1 align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,gcp,azure,react,vue,flutter&perline=3"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,mysql,gcp,azure,react,vue,flutter&perline=3"/>
 </h1>
 🔭 I’m currently Learning Software Engineering at AAiT<br>📝 I'm Currently Working as a Web Designer in Zohar Tech and Graphics<br>📝 I'm Currently Working as an Android Developer in CL Project <br>💬 Ask Me About Graphics Design, UI Design, Web & Android Development
 
