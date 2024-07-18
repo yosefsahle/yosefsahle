@@ -38,7 +38,7 @@
             <img 
                 alt="followers" 
                 title="Follow me on GitHub" 
-                src="https://img.shields.io/github/followers/bethlehem-dagnachew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+                src="https://img.shields.io/github/followers/yosefsahle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
                 target="_blank"/>
         </a>
       
