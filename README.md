@@ -29,7 +29,7 @@
 </p>
 <br>
 
-<p align="center">Contact me on:</p>
+<p align="center">Contact me on :</p>
 
 <p align="center">
    <a href="https://www.upwork.com/freelancers/~014405f668ebe63863">
