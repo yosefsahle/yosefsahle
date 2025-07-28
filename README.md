@@ -33,16 +33,14 @@
 
 <p align="center">
    <a href="https://www.upwork.com/freelancers/~014405f668ebe63863">
-     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white">
-   </a>
-        <a 
-            href="https://github.com/yosefsahle">
-            <img 
-                alt="followers" 
-                title="Follow me on GitHub" 
-                src="https://img.shields.io/github/followers/yosefsahle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
-                target="_blank"/>
-        </a>
+     <img src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
+   </a>
+        <a href="https://github.com/yosefsahle">
+            <img 
+                alt="followers" 
+                title="Follow me on GitHub" 
+                src="https://img.shields.io/github/followers/yosefsahle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/>
+        </a>
         
       
   </p>
