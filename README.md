@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There+✋;I'm+Yosef+Sahle;I'm+Software+Engineer;I'm+Full-Stack+Web+and+App+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/yosefsahle/"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There+✋;I'm+Yosef+Sahle;I'm+Software+Engineer;I'm+Full-Stack+Web+and+App+Developer;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
