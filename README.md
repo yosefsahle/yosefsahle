@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=dart,py,js,ts,java,php,tailwind,bootstrap,html,css"/><br/>
-    <img src="https://skillicons.dev/icons?i=angular,react,flutter,kotlin,django,firebase,mysql,postgres,postman" /><br/>
+    <img src="https://skillicons.dev/icons?i=dart,py,js,ts,php,tailwind,bootstrap"/><br/>
+    <img src="https://skillicons.dev/icons?i=vue,react,flutter,kotlin,django,firebase,mysql,postgres,postman" /><br/>
     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd" />
 
 
